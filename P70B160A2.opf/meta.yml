@@ -1,0 +1,31 @@
+id: P70B160A2
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG1796
+  instance_id: http://purl.bdrc.io/resource/IE1KG1796
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་སྒྲུང་འགྲེལ་དང་གཏམ་རྒྱུད།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - ru pu sa xing lun zhi dian gu ji jing
+  author: http://purl.bdrc.io/resource/P1500
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    9c48e56fc86e43a9b8772b4a73e868f3:
+      title: པོད ༡་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པའི་སྒྲུང་འགྲེལ་དང་གཏམ་རྒྱུད
+      volume_number: 1
+      base_file: UT1KG1796_I1KG1862_0000.txt
+      reference: http://purl.bdrc.io/resource/VL14E655A798066CEC
+      image_group: I1KG1862
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG1796
+  - http://purl.bdrc.io/resource/MW1KG1796
+  ocr_software: Namsel
+created_at: '2021-12-24T17:16:08.735910'
+last_modified_at: '2021-12-24T17:16:08.735918'
